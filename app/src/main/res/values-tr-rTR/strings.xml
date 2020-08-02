@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Döviz Çevirici</string>
+    <string name="cny">Çin Yuanı:</string>
+    <string name="usd">A.B.D Doları:</string>
+    <string name="tl">Türk Lirası:</string>
+    <string name="jpy">Japon Yeni:</string>
+    <string name="cad">Kanada Doları:</string>
+    <string name="refresh">YENİLE</string>
+</resources>

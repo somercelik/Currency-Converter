@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="cny">Chinese Renminbi:</string>
+    <string name="usd">U.S. Dollar:</string>
+    <string name="tl">Turkish Lira:</string>
+    <string name="jpy">Japanese Yen:</string>
+    <string name="cad">Canadian Dollar:</string>
+    <string name="refresh">REFRESH</string>
+</resources>
